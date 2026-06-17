@@ -1,0 +1,16 @@
+# 빌드 관련 폴더
+build/
+install/
+log/
+
+# 임시 파일
+*.tmp
+*.bak
+
+# 이미지
+src/camera_pkg/camera_pkg/lib/
+data/
+
+#파이썬 캐시
+__pycache__/
+*.py[cod]
